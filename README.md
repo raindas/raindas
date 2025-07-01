@@ -4,7 +4,7 @@ I'm a **Software Engineer** with a passion for building impactful solutions acro
 
 ## 🛠️ Tech Stack
 
-- **Languages:** PHP, Java, Swift, JavaScript, HTML, CSS
+- **Languages:** PHP, Java, Swift, JavaScript, TypeScript, HTML, CSS
 - **Frameworks:** Laravel, Spring, SwiftUI, Vue.js
 - **Mobile & Hybrid:** Skip.tools, Capacitor.js, Ionic, Framework7
 
