@@ -2,6 +2,18 @@
 
 I'm a **Software Engineer** with a passion for building impactful solutions across web and mobile platforms.
 
+<p align="center">
+  <a href="https://presidentraindas.com">
+    <img src="https://img.shields.io/badge/Blog-nextwebb.tech-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://x.com/iamraindas">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/segun-adesanya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## 🛠️ Tech Stack
 
 - **Languages:** PHP, Java, Swift, JavaScript, TypeScript, HTML, CSS
@@ -31,3 +43,13 @@ My ideal life is a perfect blend of all these passions, keeping my creativity an
 ---
 
 Let’s connect and create something amazing together!
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raindas&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Raindas's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raindas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+</p>
