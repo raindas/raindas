@@ -3,13 +3,13 @@
 I'm a **Software Engineer** with a passion for building impactful solutions across web and mobile platforms.
 
 <p align="center">
-  <a href="https://presidentraindas.com">
+  <a href="https://presidentraindas.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-presidentraindas.com-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://x.com/iamraindas">
+  <a href="https://x.com/iamraindas" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/segun-adesanya/">
+  <a href="https://linkedin.com/in/segun-adesanya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
