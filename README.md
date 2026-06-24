@@ -4,7 +4,7 @@ I'm a **Software Engineer** with a passion for building impactful solutions acro
 
 <p align="center">
   <a href="https://presidentraindas.com">
-    <img src="https://img.shields.io/badge/Blog-nextwebb.tech-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-presidentraindas.com-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://x.com/iamraindas">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -46,10 +46,8 @@ Let’s connect and create something amazing together!
 
 ## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raindas&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Raindas's GitHub stats" />
-</p>
+![raindas's Stats](https://github-readme-stats.vercel.app/api?username=raindas&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raindas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-</p>
+![raindas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raindas&theme=vue-dark&hide_border=false)
+
+![raindas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raindas&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
